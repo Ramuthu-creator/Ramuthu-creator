@@ -1,4 +1,6 @@
-<h1 align="center">I'm Ramuthu Theniya 👋</h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ramuthu-creator.Ramuthu-creator" />
+
+<h1 align="center">Hi 👋, I'm Ramuthu Theniya</h1>
 
 <h3 align="center">Software Engineering Undergraduate | Full-Stack Developer</h3>
 
