@@ -11,7 +11,7 @@
 <p align="center">
 🌱 I’m currently learning <b>Android Development, React, and Full-Stack Development</b><br><br>
 🎓 Undergraduate at <b>CINEC Campus</b><br><br>
-💬 Ask me about <b>Java, Python, C++, React, Database Design, Cybersecurity</br>
+💬 Ask me about <b>Java, Python, C++, React, Database Design, Cybersecurity</br></br></br>
 ⚡ Explore My Portfolio From <a href = "https://ramuthu-theniya-portifolio.vercel.app/">Here </a>
 </p>
 
