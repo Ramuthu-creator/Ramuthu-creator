@@ -33,7 +33,7 @@
 
 <h3 align="center">⚒️ Languages - Frameworks - Tools ⚒️</h3>
 
-<br/>
+<br/><br/>
 
 <p align="center">
 
@@ -88,7 +88,6 @@
 </p>
 
 <br/>
----
 
 <h3 align="center">🐍 Contributions</h3>
 
