@@ -1,43 +1,34 @@
-<h1 align="center">Hi 👋, I'm Ramuthu Theniya</h1>
-<h4 align="center">💻 Passionate IT student exploring Full-Stack Development and UI/UX design.</h4>
+<h1 align="center">Hi 👋, I'm Dula</h1>
+<h3 align="center">Software Developer from Sri Lanka</h3>
 
-
-<table align="center" border="0" style="border: none;">
-  <tr>
-    <td width="60%" style="border: none;">
-      <ul>
-        <li>🌱 I'm currently learning <b>Android Developing</b></li>
-        <br>
-        <li>👨‍🎓 I'm an Undergraduate at <b>Cinec Campus</b></li>
-        <br>
-        <li>📫 How to reach me <b><a href="mailto:tramuthu@.com">tramuthu@gmail.com</a></b></li>
-        <br>
-        <li>🔗 Explore My Portfolio Website <a href="https://ramuthu-theniya-portifolio.vercel.app/"><b>Click here to visit</b></a></li>
-      </ul>
-    </td>
-    <td width="40%" align="center" style="border: none;">
-      <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="300" alt="Developer Illustration" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
 ---
 
-<h3 align="center">🤝 Connect with me:</h3>
+- 🌱 I'm currently building the **TechCare IT Help Desk** (React/Tailwind) and an **Employee Project Management System** (PHP).
+- 🤝 I'm an Undergraduate Student at **CINEC Campus** and active in **AIESEC**.
+- 💬 Ask me about **Java, Python, C++, React, Database Design, or Cybersecurity**.
+- 📫 How to reach me: **<a href="mailto:your.email@gmail.com">your.email@gmail.com</a>**
+- ⚡ Fun fact: I developed a Python-based **ProgramTutorBot** and I love **photography and photo editing**.
+
+<br/>
+
+<h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3>
 <p align="center">
-  <a href="mailto:tramuthu@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" width="100"/>
-  </a>
-  <a href="www.linkedin.com/in/ramuthu-theniya">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="100"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,cpp,react,html,css,php,tailwind,mysql,vscode,ps,github&perline=12" alt="Skills" />
   </a>
 </p>
 
 ---
 
-<h3 align="center">💻 Languages and Tools:</h3>
+<h3 align="center">🐍 My Contributions 🐍</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,java,js,cpp,css,figma,github,mongodb,mysql,postman,python,react,tailwind,vscode,php,bootstrap,vercel,nodejs,ps&perline=10" alt="Skills" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
