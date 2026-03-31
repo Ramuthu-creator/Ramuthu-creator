@@ -1,8 +1,6 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ramuthu-creator.Ramuthu-creator" />
-
-<h1 align="center">Hi 👋, I'm Ramuthu Theniya</h1>
-
-<h3 align="center">Software Engineering Undergraduate | Full-Stack Developer</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ramuthu+Theniya!;+Software+Engineering+Undergraduate;+Full-Stack+Developer;" />
+</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ramuthu-creator&label=Visitors&color=0e75b6&style=flat" />
