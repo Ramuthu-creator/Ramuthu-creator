@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=80&duration=4000&lines=Hi+There!+👋;I'm+Ramuthu+Theniya!;Software+Engineer+%7C+Full-Stack+Dev;Always+Learning,+Always+Growing+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=80&duration=4000&lines=Hi+There!+👋;I'm+Ramuthu+Theniya!;Software+Engineer+%7C+Full+Stack+Developer" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -84,6 +84,9 @@
 ### 📊 Databases
 <div align="center">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFA500?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 </div>
 
 ### 🛠️ Tools & Platforms
@@ -106,8 +109,12 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ramuthu-creator&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramuthu-creator&layout=compact&langs_count=7&theme=radical" alt="Top Languages" />
+  <a href="https://github.com/Ramuthu-creator">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ramuthu-creator&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Ramuthu-creator">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramuthu-creator&layout=compact&langs_count=7&theme=radical&cache_seconds=1800" alt="Top Languages" />
+  </a>
 </div>
 
 ---
