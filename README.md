@@ -109,12 +109,8 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <a href="https://github.com/Ramuthu-creator">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ramuthu-creator&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/Ramuthu-creator">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramuthu-creator&layout=compact&langs_count=7&theme=radical&cache_seconds=1800" alt="Top Languages" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ramuthu-creator&show_icons=true&theme=radical&include_all_commits=true&count_private=true&disable_animations=false&v=2" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramuthu-creator&layout=compact&langs_count=8&theme=radical&hide_progress=false&v=2" alt="Top Languages" width="49%" />
 </div>
 
 ---
