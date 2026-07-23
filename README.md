@@ -106,15 +106,83 @@
 
 ---
 
-## 📊 GitHub Statistics
+## 📈 GitHub Streak & Activity
 
 <div align="center">
-  <a href="https://github.com/Ramuthu-creator">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ramuthu-creator&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=1a1b27&title_color=ff006e&text_color=8892b0&border_color=ff006e" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/Ramuthu-creator">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramuthu-creator&layout=compact&langs_count=8&theme=radical&bg_color=1a1b27&title_color=ff006e&text_color=8892b0&border_color=ff006e" alt="Top Languages" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ramuthu-creator&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🏆 Achievements & Badges
+
+<div align="center">
+  <img src="https://img.shields.io/badge/⭐-GitHub%20Profile-yellow?style=for-the-badge" alt="Profile" />
+  <img src="https://img.shields.io/badge/🚀-Full%20Stack%20Developer-blue?style=for-the-badge" alt="Developer" />
+  <img src="https://img.shields.io/badge/💡-Problem%20Solver-green?style=for-the-badge" alt="Problem Solver" />
+  <img src="https://img.shields.io/badge/📚-Open%20Source%20Contributor-ff6b6b?style=for-the-badge" alt="Open Source" />
+</div>
+
+---
+
+## 💻 Skills Proficiency
+
+| Skill | Level |
+|-------|-------|
+| **Java** | ████████░░ 80% |
+| **Python** | ████████░░ 80% |
+| **JavaScript** | ███████░░░ 70% |
+| **React** | ███████░░░ 70% |
+| **Database Design** | █████████░ 90% |
+| **Web Development** | ████████░░ 80% |
+| **Clean Code** | █████████░ 90% |
+
+---
+
+## 📚 Featured Projects
+
+<div align="center">
+  
+### 🔗 [Ramuthu-Theniya-Portfolio](https://github.com/Ramuthu-creator/Ramuthu-Theniya-Portfolio)
+**HTML** | Personal Portfolio Website
+
+### 🔗 [RentXpress](https://github.com/Ramuthu-creator/rentxpress)
+**HTML, Tailwind CSS, PHP, MySQL** | Modern Car Rental System
+
+### 🔗 [ROAD-XTREME-1.0](https://github.com/Ramuthu-creator/ROAD-XTREME-1.0_site)
+**JavaScript** | Interactive Web Application
+
+</div>
+
+---
+
+## 📊 Quick Stats
+
+<div align="center">
+  
+| Metric | Count |
+|--------|-------|
+| 📁 **Repositories** | [View All](https://github.com/Ramuthu-creator?tab=repositories) |
+| 🌟 **Profile Views** | Growing Daily |
+| 💬 **Languages** | 7+ |
+| 🛠️ **Tools & Frameworks** | 10+ |
+| 🎓 **Education** | CINEC Campus |
+
+</div>
+
+---
+
+## 🤝 Let's Collaborate!
+
+I'm always interested in:
+- 💼 **Web & Mobile Development** projects
+- 🔐 **Cybersecurity** initiatives  
+- 📖 **Open Source** contributions
+- 🎨 **UI/UX** design challenges
+- 💡 **Innovative** solutions
+
+<div align="center">
+  <p>Feel free to reach out for collaboration or just a chat! 😊</p>
 </div>
 
 ---
